@@ -12,3 +12,7 @@ Tech Details:
 Language - Swift
 Framework - UIKit & AVFoundation
 Architecture - MVC (Model-View-Controller)
+
+
+<img width="450" height="3464" alt="sym" src="https://github.com/user-attachments/assets/ebf7f63c-39cd-4d8e-8833-d3c105595f35" />
+
